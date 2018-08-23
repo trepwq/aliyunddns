@@ -8,7 +8,8 @@ ubuntu 16.04 测试通过<br/>
 
 然后安装 bind-dig，curl，openssl-util。
 
-# 修改脚本的setting代码段，其中DomainRecordId不清楚的话暂时不用修改，DNSServer修改为你在万网上使用的DNS服务器。
+# 修改脚本的setting代码段
+其中DomainRecordId不清楚的话暂时不用修改，DNSServer修改为你在万网上使用的DNS服务器。
 如:
     
     AccessKeyId="MyID"
